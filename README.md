@@ -1,1 +1,2 @@
-# skillhunter-issues
+# Skill Hhunter - issues
+Please create an issue if you have any problem while using the application.
